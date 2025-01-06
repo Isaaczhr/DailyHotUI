@@ -53,7 +53,7 @@ export default defineConfig(({ mode }) => {
         manifest: {
           name: "今日热榜",
           short_name: "DailyHot",
-          description: "汇聚全网热点，热门尽览无余",
+          description: "Copied from DailyHot[https://github.com/imsyy/DailyHot] by imsyy[https://github.com/imsyy]",
           display: "standalone",
           start_url: "/",
           theme_color: "#fff",
