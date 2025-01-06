@@ -4,7 +4,7 @@
       <div class="logo" @click="router.push('/')">
         <img src="/ico/favicon.png" alt="logo" />
         <div class="name">
-          <n-text>今日热榜</n-text>
+          <n-text>Isaac's 今日热榜站点</n-text>
           <n-text :depth="3">Copied from <a href="https://github.com/imsyy/DailyHot">DailyHot</a> by <a href="https://github.com/imsyy">imsyy</a></n-text>
         </div>
       </div>
