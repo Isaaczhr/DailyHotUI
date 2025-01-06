@@ -5,7 +5,7 @@
         <img src="/ico/favicon.png" alt="logo" />
         <div class="name">
           <n-text>今日热榜</n-text>
-          <n-text :depth="3">Copied from DailyHot[https://github.com/imsyy/DailyHot] by imsyy[https://github.com/imsyy]</n-text>
+          <n-text :depth="3">Copied from <a href="https://github.com/imsyy/DailyHot">DailyHot</a> by <a href="https://github.com/imsyy">imsyy</a></n-text>
         </div>
       </div>
       <div class="current-time" v-if="store.timeData">
