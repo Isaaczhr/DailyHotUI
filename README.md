@@ -1,7 +1,7 @@
 <div align="center">
 <img alt="logo" height="120" src="./public/favicon.png" width="120"/>
-<h2>今日热榜</h2>
-<p>汇聚全网热点，热门尽览无余</p>
+<h2>Isaac's 今日热榜站点</h2>
+<p>Copied from DailyHot[https://github.com/imsyy/DailyHot] by imsyy[https://github.com/imsyy]</p>
 <br />
 <img src="./screenshots/main.jpg" style="border-radius: 16px" />
 </div>
